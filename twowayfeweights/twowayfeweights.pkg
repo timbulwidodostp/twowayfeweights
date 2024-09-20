@@ -1,0 +1,91 @@
+d 'TWOWAYFEWEIGHTS': module to estimate the weights and measure of robustness to treatment effect heterogeneity attached to two-way fixed effects regressions
+d
+d   twowayfeweights estimates the weights and the measure of
+d robustness to treatment effect heterogeneity attached to the
+d two-way fixed effects regressions studied in Chaisemartin &
+d D'Haultfoeuille (2018), it can also compute inference measures
+d for the weights. 
+d
+d KW: fixed effects
+d KW: two-way fixed effects
+d KW: regression
+d KW: weights
+d
+d Requires: Stata version 12
+d
+d Distribution-Date: 20240613
+d
+d Author: Clement de Chaisemartin,  University of California at Santa Barbara, Santa Barbara, California, USA.
+d Support: email  clementdechaisemartin@@ucsb.edu
+d
+d Author: Xavier D'Haultfoeuille,  CREST
+d Support: email xavier.dhaultfoeuille@@ensae.fr
+d
+d Author: Antoine Deeb,  University of California at Santa Barbara
+d Support: email antoinedib@@ucsb.edu
+d
+f twowayfeweights.ado
+f twowayfeweights.sthlp
+f twowayfeweights_out.ado
+f twowayfeweights_out.sthlp
+ 
+d
+f gcollapse.ado
+f gcollapse.sthlp
+f gcontract.ado
+f gcontract.sthlp
+f gdistinct.ado
+f gdistinct.sthlp
+f gduplicates.ado
+f gduplicates.sthlp
+f gegen.ado
+f gegen.sthlp
+f gglm.ado
+f gglm.sthlp
+f gisid.ado
+f gisid.sthlp
+f givregress.ado
+f givregress.sthlp
+f glevelsof.ado
+f glevelsof.sthlp
+f gpoisson.ado
+f gquantiles.ado
+f gquantiles.sthlp
+f greg.ado
+f greg.sthlp
+f gregress.ado
+f gregress.sthlp
+f greshape.ado
+f greshape.sthlp
+f gstats.ado
+f gstats.sthlp
+f gstats_hdfe.sthlp
+f gstats_moving.sthlp
+f gstats_range.sthlp
+f gstats_residualize.sthlp
+f gstats_sum.sthlp
+f gstats_summarize.sthlp
+f gstats_tab.sthlp
+f gstats_transform.sthlp
+f gstats_winsor.sthlp
+f gtools.ado
+f gtools.sthlp
+f gtools_macosx_v2.plugin
+f gtools_macosx_v3.plugin
+f gtools_unix_v2.plugin
+f gtools_unix_v3.plugin
+f gtools_windows_v2.plugin
+f gtools_windows_v3.plugin
+f gtop.ado
+f gtop.sthlp
+f gtoplevelsof.ado
+f gtoplevelsof.sthlp
+f gunique.ado
+f gunique.sthlp
+f ../_/_gtools_internal.ado
+f ../_/_gtools_internal.mata
+f ../f/fasterxtile.ado
+f ../f/fasterxtile.sthlp
+f ../h/hashsort.ado
+f ../h/hashsort.sthlp
+f ../l/lgtools.mlib
