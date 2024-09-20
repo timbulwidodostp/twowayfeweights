@@ -81,10 +81,9 @@ f gtoplevelsof.sthlp
 f gunique.ado
 f gunique.sthlp
 f _gtools_internal.ado
-f ../_/_gtools_internal.ado
-f ../_/_gtools_internal.mata
-f ../f/fasterxtile.ado
-f ../f/fasterxtile.sthlp
-f ../h/hashsort.ado
-f ../h/hashsort.sthlp
-f ../l/lgtools.mlib
+f _gtools_internal.mata
+f fasterxtile.ado
+f fasterxtile.sthlp
+f hashsort.ado
+f hashsort.sthlp
+f lgtools.mlib
