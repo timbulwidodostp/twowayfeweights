@@ -28,8 +28,6 @@ f twowayfeweights.ado
 f twowayfeweights.sthlp
 f twowayfeweights_out.ado
 f twowayfeweights_out.sthlp
- 
-d
 f gcollapse.ado
 f gcollapse.sthlp
 f gcontract.ado
@@ -82,6 +80,7 @@ f gtoplevelsof.ado
 f gtoplevelsof.sthlp
 f gunique.ado
 f gunique.sthlp
+f _gtools_internal.ado
 f ../_/_gtools_internal.ado
 f ../_/_gtools_internal.mata
 f ../f/fasterxtile.ado
