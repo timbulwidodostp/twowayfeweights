@@ -3,6 +3,8 @@ Weights and measure of robustness to treatment effect heterogeneity attached to 
 
 Estimates the weights attached to the two-way fixed effects regressions studied in de Chaisemartin & D'Haultfoeuille (2020a), as well as summary measures of these regressions' robustness to heterogeneous treatment effects Use twowayfeweights With STATA 18
 
+https://www.youtube.com/watch?v=eOVuG_9b2mw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
